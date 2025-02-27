@@ -1,1 +1,1 @@
-Thêm nội dung mới từ branch test_merge
+Dòng bị chỉnh sửa từ master
