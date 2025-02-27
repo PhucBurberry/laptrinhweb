@@ -1,1 +1,1 @@
-Đây là nội dung ban đầu của file test.txt
+Thêm nội dung mới từ branch test_merge
