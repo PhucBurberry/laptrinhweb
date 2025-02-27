@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dòng bị chỉnh sửa từ master
+=======
+Dòng bị chỉnh sửa từ test_conflict
+>>>>>>> test_conflict
